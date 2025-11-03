@@ -1,14 +1,19 @@
-# Linux Assignment #2 – Group Project
+Linux Assignment #2 – Group 12
+Assignment Details
 
-**Course:** COMP2018 – Linux System Administration (25F)  
-**Assignment #:** 2  
-**Group #:**12
-**Members:**  
-- Saugat Rana  
-- Kushal Gurung  
-- Sabin Adhikari  
+Assignment Number: Linux Assignment #2
 
-**Instructor:** Anmar  
-**Date:** November 3, 2025  
+Course:  COMP2018 Linux System Administration 
 
-This repository contains all required files, folders, and screenshots for Assignment #2.
+Instructor: Anmar Jarjees
+
+Group Number: 12
+
+Group Members:
+
+Saugat Rana
+
+Kushal Gurung
+
+Sabin Adhikari
+
