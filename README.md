@@ -2,7 +2,7 @@
 
 **Course:** COMP2018 – Linux System Administration (25F)  
 **Assignment #:** 2  
-**Group #:** X  
+**Group #:** 12
 **Members:**  
 - Saugat Rana  
 - Kushal Gurung  
