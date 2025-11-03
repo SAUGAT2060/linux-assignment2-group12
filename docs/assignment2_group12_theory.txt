@@ -1,0 +1,5 @@
+1. What are special path symbols ., .., and ~ used for in Linux?
+In Linux, “.” means the current folder you are working in. “..” means the parent folder, which is one step back from your current location. “~” represents your home folder where your personal files are stored.
+
+2. Briefly describe the purpose of these directories: bin/, etc/, var/, and media/.
+The bin/ folder has important programs and commands that the system needs to run. The etc/ folder stores all the settings and configuration files for the system. The var/ folder keeps files that change often, like logs or temporary data, and the media/ folder is used to access removable drives like USBs or CDs.
